@@ -29,4 +29,5 @@ Por ejemplo, puedes eliminar solo la pestaña de valoraciones o mantener la desc
 
 ## Artículo de origen
 
-- https://www.jesustovar.es/veteasabertu/eliminar-pestana-de-descripcion-valoraciones-o-informacion-adicional-en-woocommerce
+https://www.jesustovar.es/veteasabertu/eliminar-pestana-de-descripcion-valoraciones-o-informacion-adicional-en-woocommerce
+
