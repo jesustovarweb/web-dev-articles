@@ -21,9 +21,10 @@ Cada ejemplo vive en su propio directorio e incluye su propio README con una exp
 No todo el código que aparece en los artículos del blog se publica aquí de forma automática.
 
 Solo se incluyen ejemplos que:
-- representan una forma profesional de trabajar a día de hoy,
-- pueden reutilizarse con seguridad en otros proyectos,
-- y tienen sentido fuera del contexto completo del artículo.
+
+- Representan una forma profesional de trabajar.
+- Pueden reutilizarse con seguridad en otros proyectos.
+- Tienen sentido fuera del contexto completo del artículo.
 
 El resto del código se mantiene únicamente como parte del contenido editorial.
 
@@ -33,4 +34,5 @@ El código suele estar documentado en inglés, siguiendo una convención habitua
 
 ## Artículos relacionados
 
-- https://www.jesustovar.es/veteasabertu/categoria/wordpress
+https://www.jesustovar.es/veteasabertu/categoria/wordpress
+
