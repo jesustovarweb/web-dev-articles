@@ -18,12 +18,14 @@ The focus is always practical and problem-driven, not on building generic tools 
 ## Inclusion criteria
 
 Only tools that:
-- have been used in real projects,
-- provide value as a technical reference,
-- and make sense outside the exact context in which they were created are included here.
+
+- Have been used in real projects.
+- Provide value as a technical reference.
+- Make sense outside the exact context in which they were created are included here.
 
 Tools that are too specific or hard to reuse are intentionally left out.
 
 ## Documentation
 
 Each tool lives in its own directory and includes a README explaining its purpose, usage and context, along with a link to the original blog article when applicable.
+
