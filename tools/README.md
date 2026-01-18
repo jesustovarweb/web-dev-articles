@@ -18,12 +18,14 @@ El enfoque es siempre práctico y orientado a problemas reales, no a crear herra
 ## Criterio de inclusión
 
 Solo se incluyen herramientas que:
-- han sido utilizadas en proyectos reales,
-- aportan valor como referencia técnica,
-- y tienen sentido fuera del contexto exacto en el que se crearon.
+
+- Han sido utilizadas en proyectos reales.
+- Aportan valor como referencia técnica.
+- Tienen sentido fuera del contexto exacto en el que se crearon.
 
 Herramientas demasiado específicas o difíciles de reutilizar se mantienen fuera del repositorio.
 
 ## Documentación
 
 Cada herramienta vive en su propio directorio e incluye un README con una explicación clara de su propósito, uso y contexto, así como un enlace al artículo del blog del que proviene, cuando aplica.
+
