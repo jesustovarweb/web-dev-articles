@@ -21,14 +21,14 @@ Each example lives in its own directory and includes its own README with an expl
 Not all the code shown in the blog articles is automatically published here.
 
 Only examples that:
-- represent a professional way of working today,
-- can be safely reused in other projects,
-- and make sense outside the full context of the original article
 
-are included in this directory.
+- Represent a professional way of working today.
+- Can be safely reused in other projects.
+- Make sense outside the full context of the original articlebare included in this directory.
 
 Other code is intentionally kept only as part of the editorial content.
 
 ## Related articles
 
-- https://www.jesustovar.es/veteasabertu/categoria/wordpress
+https://www.jesustovar.es/veteasabertu/categoria/wordpress
+
