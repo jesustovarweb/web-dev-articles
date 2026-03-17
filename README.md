@@ -1,21 +1,29 @@
 # Ejemplos de desarrollo web
 
-Este repositorio contiene ejemplos prácticos de HTML, CSS, JavaScript, PHP y MySQL
-utilizados en artículos publicados en mi web.
+Este repositorio contiene ejemplos de código seleccionados en HTML, CSS, JavaScript, PHP y MySQL, extraídos de artículos publicados en mi web.
 
-Los ejemplos están basados en problemas reales de desarrollo web y reflejan mi
-forma habitual de afrontar proyectos profesionales.
+El objetivo no es ofrecer snippets genéricos, sino documentar soluciones prácticas basadas en situaciones reales de desarrollo web y en experiencia profesional.
 
-## Contenido
+## Alcance
 
-- Ejemplos de maquetación y layout
-- Interacciones y comportamientos con JavaScript
-- Snippets y scripts en PHP
-- Consultas SQL
-- Patrones y soluciones habituales en desarrollo frontend y backend
+El repositorio incluye ejemplos relacionados con:
+
+- Maquetación y estructura (HTML y CSS)
+- Interacciones y comportamiento con JavaScript
+- Scripts en PHP y lógica de backend
+- Consultas SQL y operaciones con bases de datos
+- Personalizaciones en WordPress y WooCommerce
+- Patrones habituales en desarrollo frontend y backend
+
+Los ejemplos se organizan por contexto y caso de uso, no por fecha ni por artículo.
+
+## Notas
+
+No todo el código de los artículos se incluye en este repositorio.  
+Solo forman parte de él aquellos ejemplos que siguen siendo relevantes, reutilizables y mantenibles a día de hoy.
 
 ## Autor
 
 Jesús Tovar  
-Desarrollador web con más de 15 años de experiencia.  
+Desarrollador web con más de 15 años de experiencia profesional.  
 https://www.jesustovar.es
